@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Head to Operation for instructions on how to run our code!
+Head to [Operation](https://github.com/remla23-team3/operation) for instructions on how to run our codebase!
